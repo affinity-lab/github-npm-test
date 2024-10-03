@@ -1,0 +1,1 @@
+export let hello = ()=>{console.log("Hello 2")}

@@ -1,0 +1,9 @@
+{
+  "name": "@affinity-lab/github-npm-test-package-2",
+  "version": "1.0.2",
+  "dependencies": {
+  },
+  "repository": {
+    "url": "git://github.com/affinity-lab/github-npm-test.git"
+  }
+}
